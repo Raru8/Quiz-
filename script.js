@@ -34,7 +34,6 @@ fetch('https://the-trivia-api.com/api/questions?limit=6&difficulty=easy')
     })
 
 function updateQuestion() {
-    console.log(counter)
     if (counter < 5) {
         category.innerHTML = object[counter].category
         questions.innerHTML = object[counter].question
