@@ -28,3 +28,6 @@
 
 <p>O layout pode quebrar por conter perguntas e respostas muito extensas</p>
 
+<h2>Link para o projeto</h2>
+
+[Quiz usando Trivia API](https://raru8.github.io/Quiz-/)
